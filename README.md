@@ -5,4 +5,5 @@ This project was developed for a friend who needed to obtain personalized report
 - Amazon EC2: Running this application.
 
 Web site in development:
-reidossalgados.com, taquara.reidossalgado.com
+- www.reidossalgados.com
+- www.taquara.reidossalgados.com
